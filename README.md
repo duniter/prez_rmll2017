@@ -1,3 +1,3 @@
-# Inside YunoHost
+# Libre currency conference at RMLL 2017
 
-https://yunohost.github.io/inside-yunohost/
+https://duniter.github.io/prez_rmll2017
